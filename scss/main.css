@@ -234,6 +234,7 @@ img {
 }
 #home-c .process-icon:hover .process-step {
   background: #333;
+  color: #fff;
 }
 
 #main-footer {
